@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title>Restaurant Outlook</title>
+    </head>
+    <body>
+   <div class="w3-bar w3-red">     
+           
+        <div class="w3-row w3-top">
+            <div class="w3-dropdown-hover">
+           <button class="w3-button w3-red">&#9776</button>
+           <div class="w3-dropdown-content w3-red">
+            <a href="#Home" class="w3-button  w3-red">Home</a>
+            <br>
+               <a href="#Introduction" class="w3-button  w3-red">Introduction</a>
+            <br>  
+           <a href="#Menu" class="w3-button w3-red">Menu</a>
+            <br>
+            <a href="#About" class="w3-button w3-red">About</a>
+            <br>
+            <a href="#Contact" class="w3-button w3-red">Contact</a>
+            <br>
+           <a href="#Achievements" class="w3-button w3-red">Achievements</a>
+            <br>
+            </div>
+           </div>
+       </div>
+        </div>
+        
+           
+        <div id="Home">
+         
+        <div class="w3-display-container w3-row">
+       <div class="w3-bar w3-red">     
+           
+        <div class="w3-dropdown-hover">
+           <button class="w3-button w3-red">&#9776</button>
+           <div class="w3-dropdown-content w3-red">
+            <button class="w3-button  w3-red">Home</button>
+            <button class="w3-button  w3-red">Introductions</button>
+           <button class="w3-button w3-red">Menu</button>
+        <button class="w3-button w3-red">About</button>
+        <button class="w3-button w3-red">Contact</button>
+               
+        <button class="w3-button w3-red">Achievements</button>
+            </div>
+           </div>
+        </div>
+           
+        <img src="Restaurant.jpg" width="100%" >
+        
+        <div class="w3-display-middle w3-panel w3-border w3-border-yellow">
+        <b class="w3-red w3-text-black w3-hover-text-blue w3-hover-black w3-xxlarge">Massachusset Plains</b>
+        </div>
+        <div class="w3-display-bottomleft w3-container  w3-xxlarge w3-panel w3-display-hover w3-hover-red w3-border w3-border-yellow ">
+        <span class="w3-xxlarge w3-text-green w3-serif">Mondays to fridays:8Am to 10PM, Saturdays:8AM to 12Am Sundays:Closed</span>
+        </div>
+        
+<div class="w3-display-bottomright w3-display-container  w3-xxlarge w3-panel w3-serif w3-display-hover w3-hover-purple w3-border w3-border-yellow">
+    <div class="w3-text-blue">Your Address Here</div>
+    </div>
+        </div>
+        
+            
+            
+            
+        <div id="Introduction">
+            <div class="w3-row w3-black">
+              <div class="w3-white w3-container w3-center w3-wide w3-bottombar w3-border-blue ">
+                  <p  class="w3-jumbo w3-serif">How the Massachussets Plain Started</p>
+            </div>
+            </div>  
+            <div class="w3-sand w3-container w3-center w3-wide">
+            <p class="w3-serif w3-large w3-bottombar w3-border-green ">You can already check on the About section for small info on our retaurant. But if you wish to dive into a story. Then Let's start.
+                Allesandro Giuseppe was a man who wanted to dwelve into italian cuisine. Thus, he made this restaurant, but he felt that it was not enough, that there was still something missing. He tried many things, exprimenting with new italian recipes, or expanding the cuisine he could offer to his customers. But it never solved his problem, it was starting to even affect the staff and how he treated the people around him. Sooner or later he was very distant. Until one day, he thought "What if I were to try travelling around the world?" yes maybe that was the answer, for he did not have any foreign knowlege. And so he decided to travel around by ship for months and months. Never giving up, even though he wasn't the patient type, he knew this was what he needed to do. And so, Months and Months later, all of a sudden he's back to normal, his employee's, questioning themselves in confusion. Until he called for an urgent meeting, and explained what he had discovered. Sooner or later things started to change around the restaurant. And eventually people started to spread talk about Alessandro and started Coming over to eat at his restaurant. Eventually, after years of many failures, complications and stick ups. He not only was a better man than before(He was still he the impatient type.) But that was one of his very qualities that made himm who he was today. And that is how all if itstarted until now.
+                </p>
+            </div>
+            
+            </div>
+    
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+        
+        
+        <div id="Menu">
+        <div class="w3-row w3-black">
+            <div class="w3-container w3-yellow">
+            <p class="w3-xxlarge w3-serif">Welcome to the MENU. Its a little bit of a short version to show you a few good examples of what we can serve you here at Massachusset Plains.We also try to adopt other cuisine(But keep in Mind, Italian is still what it's all about.</p>
+            </div>
+    <div class="w3-half w3-panel">
+            <img src="Appetizer.jpg.jpg" width="100%">
+         </div>
+            
+          
+            
+         <div class="w3-half w3-quarter w3-panel">
+              <img src="Pizza.jpg.jpg" width="35%">
+              <img src="Chocolate.jpg.jpg" width="35%">
+            </div>
+            
+     <div class="w3-quarter w3-half w3-panel">
+              <img src="Dessert.jpg.jpg" width="35%">
+                </div>
+            
+            
+              <div class="w3-quarter w3-half w3-panel">
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/xd-slRiRkEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            
+            
+               <div class=" w3-right w3-half w3-panel">
+                <div class="w3-brown w3-border w3-border-black">
+                    
+         <h1 class="w3-text-red">My Restaurant</h1></div>
+            </div>
+    </div>  
+            <div class="w3-yellow w3-container w3-center w3-wide w3-bottombar w3-border-green ">
+           <h1 class="w3-serif">More usual recipes from our menu</h1>      
+        </div>
+        
+        <div class="w3-row  w3-red">
+                
+            
+        <div class="w3-quarter w3-row">
+          <div class="w3-panel">
+             </div> 
+            
+            <div class="w3-card-4 w3-panel">
+            <img src="Appetizer.jpg.jpg" 
+                 width="95%">
+            </div>
+           <div class="w3-border w3-border-black w3-center">
+                <p class="w3-bottombar w3-border-blue w3-serif">Appetizer</p>
+                </div>
+            </div>
+            
+            
+            
+            
+             <div class="w3-quarter w3-row">
+          <div class="w3-panel">
+             </div> 
+            
+            <div class="w3-card-4 w3-panel">
+            <img src="Pizza.jpg.jpg" 
+                 width="80%">  
+            </div>
+           <div class="w3-border w3-border-black w3-center">
+                <p class="w3-bottombar w3-border-blue w3-serif">Pizza</p>
+                </div>
+            </div>
+            
+            
+            
+            
+             <div class="w3-quarter w3-row">
+          <div class="w3-panel">
+             </div> 
+            
+            <div class="w3-card-4 w3-panel">
+            <img src="Chocolate.jpg.jpg" 
+                 width="80%">
+            </div>
+           <div class="w3-border w3-border-black w3-center">
+                <p class="w3-bottombar w3-border-blue w3-serif">Chocolate</p>
+                </div>
+            </div>
+            
+            
+            
+            
+         <div class="w3-quarter w3-row">
+          <div class="w3-panel">
+             </div> 
+            
+            <div class="w3-card-4 w3-panel">
+            <img src="Dessert.jpg.jpg" 
+                 width="82.5%">
+            </div>
+           <div class="w3-border w3-border-black w3-center">
+                <p class="w3-bottombar w3-border-blue w3-serif">Dessert</p>
+                
+                </div>
+            </div>
+            
+   
+        </div>    
+        
+        
+        </div>
+        
+            
+            
+    <div class="w3-sand w3-container w3-border w3-border-red">
+    <p class="w3-serif w3-large">If you are in this section of our portfolio then please check the video for an introduction on Italian fine Dining.(Our menu is much bigger than that. you can request an online menu interface if you want.)Now some of you may ask why we did this.Well, It's because It was something something special to us. This restaurant is something one can reflect on in his food. What I mean to say is one's culture can reflect on one's behavior, way of life or lifestyle, taste, as well as what he sees in life and what he sees in people.in short, to be open minded is to be open to new things as well as new decisions in life. Knowing and remembering that while eating these meals will make you enjoy them even more.</p>
+    </div>
+        </div>
+        
+        <div id="About">
+         <div class="w3-transparent w3-hover-black w3-center w3-panel w3-bottombar w3-border-red  ">
+        <div class="w3-padding-64">
+        <h1 class="w3-serif">ABOUT</h1>
+             </div>
+        <div class="w3-left align w3-rest w3-card-4 w3-border w3-border-blue w3-text-cyan">
+            <div class="w3-padding-small">
+        <p class="w3-serif w3-large">This restaurant was made by none other than the founder known as Alessandro Giuseppe. Who opened and began this business since 1946. It started off as a little stall for a quick delivery of fast food to customers passing by. But later on as time flew by Alessandro started to expand his business and cuisine as well. Turning it into what is known today.</p>
+       </div>
+            </div>
+             
+        <div class="w3-rest w3-large w3-transparent w3-border w3-border-red w3-hover-black">
+        <div class= "w3-half w3-panel">
+            <p class="w3-text-red w3-bottombar w3-border-white w3-serif">Alessandro used to be the chef but had sadly passed away. His son Flavio Giuseppe now cooks and runs for the restaurant and nothing has changed for the worst!</p>
+<p class="w3-text-red w3-bottombar w3-border-white w3-serif">Things are getting difficult but we manage well.</p>
+            </div>
+        <div class="w3-half w3-panel  w3-right-align">
+             <img class="w3-circle " src="Chef.jpg" width="30%">
+            </div>
+            <div class="w3-center">
+            <img class="w3-round-xxlarge" src="Restaurant.jpg" width="60%">
+            </div>
+        
+        </div>
+           
+        </div>
+        </div>
+        
+        <div id="Contact">
+            
+            
+         <div class="w3-container  w3-padding-64 w3-red" align="center">
+<div style="width:60%">
+          <h1>Contact</h1>  
+<p class="w3-serif"> Find us at Boulevard 9th Street or at our Restaurant. You can also call us at 0957-343-5961
+<p>We are open to any takeouts and any Deliver-to-home orders as well as any complaints about your order. Thank you for choosing us!</p>
+
+     <form action="mailto:sampletesting@gmail.com" method="post" enctype="text/plain">
+        <input class="w3-input w3-round-medium w3-left-align" placeholder="Name" type="text">  
+         
+<p class="w3-left-align">
+<input class="w3-radio" type="radio" name="gender" value="male" checked>
+<label class="w3-validate">Male</label></p>
+         
+<p class="w3-left-align"> 
+<input class="w3-radio" type="radio" name="gender" value="female">
+<label class="w3-validate">Female</label></p>
+         
+  <p>          
+ <input class="w3-input w3-round-medium" type="number" placeholder="How Many Issues Or Problems You Had With Us" > 
+            </p>
+         
+<p>
+<input class="w3-input w3-round-medium" type="datetime-local">
+       </p>
+         
+            <p>
+            <input class="w3-input  w3-round-medium" placeholder="Message/Recommendations for Improvement">
+            </p>
+         
+<p>
+  <input type="submit" value="SEND MESSAGE" class="w3-input w3- w3-round-medium">         
+            </p>
+        
+            
+        </form>     
+    
+        </div>
+            
+        </div>
+        
+        </div>       
+             
+        <div id="Achievements">
+        
+            
+        <div class="w3-sand w3-container w3-center w3-wide w3-bottombar w3-border-green ">
+           <h1 class="w3-serif">Signatures of Italy. In Italy we have 25 best recipes but we adopted 3 to our restaurant and here they are. Commented to be our best dishes to have ever been made 
+            here in Massachusset Plains(its a foreign name we decided to adopt as well.)</h1>      
+        </div>
+        
+        <div class="w3-row  w3-red">
+                
+            
+        <div class="w3-quarter w3-row">
+          <div class="w3-panel">
+             </div> 
+            
+            <div class="w3-card-4 w3-panel">
+            <img src="bagna-cauda.webp" 
+                 width="96.6%">
+            </div>
+           <div class="w3-border w3-border-black w3-center w3-black">
+                <p class="w3-xxlarge  w3-serif">Bagna-Cauda</p>
+                <p class="w3-large w3-serif">A typical Piedmontese dish, bagna cauda (translated from the dialect: hot sauce) is a preparation based on extra virgin olive oil, anchovies, and garlic, all reduced to a sauce after long cooking. It has become a UNESCO World Heritage Site and is used as a dip for fresh vegetables in the autumn season.
+It is a hearty dish, and, for this reason, it is considered a main course but can also be served as an appetizer. More than food, it is a ritual, a convivial moment of sharing among the diners, who all eat from a single terracotta container.</p>
+                </div>
+            
+            
+            
+            </div>
+            
+            
+            
+            
+             <div class="w3-quarter w3-row">
+          <div class="w3-panel">
+             </div> 
+            
+            <div class="w3-card-4 w3-panel">
+            <img src="Bistecca_alla_fiorentina.jpg" 
+                 width="100%">  
+            </div>
+           <div class="w3-border w3-border-black w3-center w3-black">
+                <p class="w3-xxlarge w3-serif">Bistecca alla Fiorentina</p>
+                <p class="w3-large w3-serif">The most famous Italian beef steak bears the name of its city: Florence. The real Fiorentina is made from specimens of the Chianina breed. The meat must be matured for about twenty days and when cut looks like a classic T-bone steak.
+It follows a very precise weight and cut, as well as cooking times and methods, and must remain rare. No aromatics are added and coarse salt is only added at the end.</p>
+                 </div>
+                 
+            </div>
+            
+            
+            
+            
+             <div class="w3-quarter w3-row">
+          <div class="w3-panel">
+             </div> 
+            
+            <div class="w3-card-4 w3-panel">
+            <img src="Minestrone.jpg" 
+                 width="77.4%">
+            </div>
+           <div class="w3-border w3-border-black w3-center w3-black">
+                <p class="w3-xxlarge w3-serif">Minestrone</p>
+               <p class="w3-large w3-serif">Minestrone is a dish that unites the country from the far north to the deep south; a symbol of the Italian dinner until the 1970s.
+It is a soup based on a mixture of vegetables, different from region to region, sometimes accompanied by rice or pasta. A noble and nutritious meal, even if the very word “minestrone” has become synonymous, in a negative way, with great mixing and enormous confusion.</p>
+                </div>
+            </div>
+            
+            
+        </div>    
+        </div>    
+    </body>
+</html>
